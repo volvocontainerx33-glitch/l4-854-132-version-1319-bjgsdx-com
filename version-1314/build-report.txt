@@ -1,0 +1,14 @@
+STATIC MOVIE SITE BUILD REPORT
+Generated at: 2026-05-25T13:49:46
+Parsed movie records: 2000
+M3U8 sources: 20
+HTML files: 2017
+Detail pages: 2000
+Category pages: 12
+Category cards total: 2000
+Unique movie links in category pages: 2000
+All movies covered by categories: True
+All detail pages generated: True
+HTML pages missing Baidu code: 0
+Detail pages missing player markers: 0
+Image files included: 0
